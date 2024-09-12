@@ -3,11 +3,11 @@ site:
   title: MarkHub
 
   ## The URL of your website.
-  url: 'https://fdxx.github.io'
+  url: 'https://halo.mozui.cn'
 
   ## HTML lang Attribute. Use a 2-letter ISO-639-1 code or optionally its variant.
   ## eg. en, zh-CN 
-  language: en
+  language: zh-CN
 
   ## The root directory of your website.
   ## If your website is in a subdirectory (such as http://example.org/blog), set root to /blog/. And 
@@ -15,7 +15,7 @@ site:
   root: '/markhub/'
 
   ## Default value for the article author if you don't specify one explicitly in the Front-matter.
-  author: fdxx
+  author: mozui
 
   ## favicon link
   favicon: '/markhub/assets/images/favicon.ico'
@@ -50,13 +50,13 @@ site:
 
 ## The name and link of the navigation menu.
 navigation:
-  Home:
+  主页:
     link: '/markhub/'
-  Archive:
+  文章:
     link: '/markhub/archive/'
-  Tags:
+  标签:
     link: '/markhub/tags/'
-  About:
+  关于:
     link: '/markhub/about/'
 
 ## The text displayed in the footer. Raw HTML syntax.
